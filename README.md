@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning Full Stack Web Developement (Front End mostly)
 - 💞️ I’m looking to collaborate on Javascript and React projects
-- 📫 How to reach me via donsmog@gmail.com or +2348131625421 or via twitter https://twitter.com/real_DonSmog
+- 📫 You can reach me via donsmog@gmail.com or +2348131625421 or via twitter https://twitter.com/real_DonSmog
 
 <!---
 DonSmog/DonSmog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
