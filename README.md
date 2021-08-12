@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonSmog
+<h2>Hi there👋! I’m Samuel DonSmog</h2>
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning Full Stack Web Developement (Front End mostly)
 - 💞️ I’m looking to collaborate on Javascript and React projects
