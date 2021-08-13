@@ -11,6 +11,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DonSmog&show_icons=true&locale=en&theme=dark" alt="DonSmog Stat"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DonSmog&show_icons=true&locale=en&theme=dark" alt="DonSmog Stat" /></p>
   <h3>I look forward to working with you.</h3>
+  <img height="80" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 <!---
 DonSmog/DonSmog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
