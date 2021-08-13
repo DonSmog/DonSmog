@@ -3,7 +3,7 @@
   <li>👀 I’m interested in Web and Mobile App Development</li><br>
   <li>🌱 I’m currently learning to be a Full Stack Web Developer</li><br>
   <li>💞️ I’m looking to collaborate on Javascript and React projects</li><br>
-<li>📫 You can reach me <a href="https://twitter.com/real_DonSmog">on Twitter</a> or <a href="+2348131625421">Call directly</a></li>
+<li>📫 You can reach me <a href="https://twitter.com/real_DonSmog">on Twitter.</a></li>
   <h4>I look forward to working with you</h4>
 
 <!---
