@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/real_DonSmog" target="blank"><img src="https://img.shields.io/twitter/follow/real_DonSmog?logo=twitter&style=for-the-badge" alt="DonSmog" /></a></p><hr>
 <ul>
   <li>👀 I’m interested in Web and Mobile App Development</li><br>
-  <li>🌱 I’m currently learning more of React and Redux</li><br>
+  <li>🌱 I’m currently learning more of React and Typescript</li><br>
   <li>💞️ I’m looking to collaborate on Javascript and React projects</li>
   </ul>
   <h2 align="left">Languages and Tools I'm proficient in:</h2>
